@@ -1,4 +1,4 @@
-# NGINX Reverse Proxy Example
+# NGINX Reverse Proxy
 
 This project demonstrates how to use NGINX as a reverse proxy for an HTTP server (in this case, written in JavaScript using Node and Express).
 
